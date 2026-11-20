@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ask Helper</string>
+    <string name="accessibility_service_description">Помощник для обработки свободных вопросов</string>
+</resources>
